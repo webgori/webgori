@@ -1,4 +1,4 @@
-[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=java,JavaScript,csharp)](https://github.com/kijepark)
+[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=java,JavaScript,c#)](https://github.com/kijepark)
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Framework&badges=Java,Spring,Vue.js,JavaScript,jQuery,Node.js,Express.js,Socket.io,Bootstrap&theme=dark)](https://github.com/webgori)
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Database%20and%20DevOps&badges=MSSQL,MySQL,Git,GitHub,Bitbucket&theme=dark)](https://github.com/webgori)
