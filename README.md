@@ -10,4 +10,4 @@
 
 ![webgori github stats](https://github-readme-stats.vercel.app/api?username=webgori&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webgori&show_icons=true&theme=highcontrast&hide=python&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webgori&show_icons=true&hide=python&layout=compact)
