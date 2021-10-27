@@ -7,3 +7,7 @@
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=webgori&repo=lolien-discord-bot)](https://github.com/webgori/lolien-discord-bot)
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=webgori&repo=LolienClient)](https://github.com/webgori/LolienClient)
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=webgori&repo=webgori-web)](https://github.com/webgori/webgori-web)
+
+![webgori github stats](https://github-readme-stats.vercel.app/api?username=webgori&show_icons=true&theme=highcontrast)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webgori&show_icons=true&theme=highcontrast&hide=python&layout=compact)
