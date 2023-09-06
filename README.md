@@ -50,15 +50,26 @@
 
 # 프로젝트
 
-## 
+* 토이토이
+  * 개발사
+    * 넷마블블루
+  * 개발 기간
+    * 2014년 1월 ~ 2015년 10월 (1년 10개월)
+  * 담당 업무
+    * 모바일 캐주얼 아케이드 게임
+    * 목표 동시접속자 50,000명. 최고 동시접속자 약 10,000명, 게임 서버 5대 사용
+    * Spring Framework를 사용
+    * 서버 failover 처리
+    * Redis를 사용하여 랭킹 구현
+    * Kakao API를 사용하여 게임 플레이 시 이모티콘 지급하도록 개발
+    * KT API를 사용하여 게임 플레이 시 특정 아이템을 모으면 모바일 데이터로 바꿔주는 기능 개발
+    * 무중단 배포 방식으로 운영
 
-## 
-
-## 
 
 
 
-[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=java,JavaScript,c#)](https://github.com/kijepark)
+
+
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Framework&badges=Java,Spring,Vue.js,JavaScript,jQuery,Node.js,Express.js,Socket.io,Bootstrap&theme=dark)](https://github.com/webgori)
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Database%20and%20DevOps&badges=MSSQL,MySQL,Git,GitHub,Bitbucket&theme=dark)](https://github.com/webgori)
