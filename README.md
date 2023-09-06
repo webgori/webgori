@@ -51,12 +51,12 @@
 # 프로젝트
 
 * 토이토이
+  * 모바일 캐주얼 아케이드 게임
   * 개발사
     * 넷마블블루
   * 개발 기간
-    * 2014년 1월 ~ 2015년 10월 (1년 10개월)
+    * 2014년 01월 ~ 2015년 10월 (1년 10개월)
   * 담당 업무
-    * 모바일 캐주얼 아케이드 게임
     * 목표 동시접속자 50,000명. 최고 동시접속자 약 10,000명, 게임 서버 5대 사용
     * Spring Framework를 사용
     * 서버 failover 처리
@@ -65,9 +65,50 @@
     * KT API를 사용하여 게임 플레이 시 특정 아이템을 모으면 모바일 데이터로 바꿔주는 기능 개발
     * 무중단 배포 방식으로 운영
 
+* 마구마구2
+  * 모바일 캐주얼 야구 게임
+  * 개발사
+    * 넷마블블루, 넷마블앤파크
+  * 개발 기간
+    * 2014년 03월 ~ 2017년 08월 (3년 06개월)
+  * 담당 업무
+    * 국내 및 대만 서비스. 목표 동시접속자 50,000명. 최고 동시접속자 약 35,000명, 게임 서버 5대 사용
+    * Spring Framework를 사용
+    * 서버 failover 처리
+    * Redis를 사용하여 랭킹 구현
+    * Spring Session을 사용하여 API 요청 필터링 기능 개발
+    * PHP7을 사용하여 운영툴 개발 및 기능 추가(DB 작업 병행)
+    * PHP7을 APK, IPA 빌드 배포 사이트 개발
+    * JavaScript 및 jQuery를 사용하여 API 문서 개발
+    * Elasticsearch, logstash, Kafka를 사용하여 지표 사이트 개발
+    * 서버 세팅시 자동화 스크립트로 편리하게 세팅
+    * Kakao API를 사용하여 게임 플레이 시 이모티콘 지급하도록 개발
+    * Freetds 사용
+    * 여러 서버 설치 및 스크립팅 등 전반적인 리눅스 작업
+    * 대만 서비스시 대만 법인과 커뮤니케이션 하며 운영
+    * 무중단 배포 방식으로 운영
+    * Git 사용
 
-
-
+* 소스라이브
+  * 라이브로 즐기는 쇼핑 엔터테인먼트 플랫폼
+  * 개발사
+    * 모비두
+  * 개발 기간
+    * 2018년 10월 ~ 2019년 06월 (09개월)
+  * 담당 업무
+    * Spring Boot 2.x, JPA, QueryDSL, Multiple Datasource, Redis, Spring Security
+    * Jenkins
+    * Docker
+    * Naver Cloud Platform 사용
+    * Naver Cloud Platform의 OS Security Chekcer
+    * Naver Cloud Platform의 WAS Security Chekcer
+    * Naver Cloud Platform의 Object Storage
+    * 2 Way SSL Authentication 적용
+    * Firebase 동적 링크를 사용하여 공유 링크 기능 개발
+    * API 명세서로 api-doc 사용
+    * Elasticsearch, logstash, Grafana를 사용하여 지표 사이트 개발
+    * Git
+    * 통합 테스트 작성, 외부 서비스의 경우 Mock Server 사용
 
 
 
