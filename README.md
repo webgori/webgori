@@ -15,28 +15,28 @@
 * Microsoft SQL Server
   * SQL 및 에이전트를 사용하여 데이터를 조회하고 조작할 수 있습니다. 라이브 서비스 중 직접 CS 처리도 진행하였습니다.
 
-* JAVASCRIPT
+* JavaScript
   * HTML, Vue.js에서 JavaScript를 사용하였습니다.
 
-* TYPESCRIPT
+* TypeScript
   * JavaScript를 사용하다가 객체지향적인 개발을 하고싶어서 TypeScript를 사용했습니다.
 
-* SOCKET.IO
+* Socket.IO
   * 게임빌 프로야구 슈퍼스타즈 프로젝트에서 실시간 대전 컨텐츠를 개발할 때 Socket.io를 사용했습니다. 서버가 Crash가 나는 이슈가 있었는데 쿼리 튜닝으로 잘 해결하였습니다.
 
-* DOCKER
+* Docker
   * apache, redis, Elasticsearch 등 개발에 필요한 어플리케이션을 container로 만들어서 사용했습니다.
 
-* ELASTICSEARCH
+* Elasticsearch
   * 게임빌 프로야구 슈퍼스타즈 프로젝트에서 API Request, Response 로그를 쌓을 때 사용했습니다. Vue.js로 만든 웹페이지에서 로그를 검색하여 CS 처리할 때 유용하게 사용했습니다.
 
-* LOGSTASH
+* Logstash
   * 게임빌 프로야구 슈퍼스타즈 프로젝트에서 API Request, Response 로그를 Elasticsearch로 전송할 때 사용했습니다.
 
-* GIT
+* Git
   * 간단한 프로젝트는 main, develop 브랜치만 사용하고, 규모가 있는 프로젝트는 main, develop, release, review 등으로 나누어서 사용했습니다. rebase를 사용하여 최대한 커밋을 깔끔하게 유지하였습니다
 
-* REDIS
+* Redis
   * 세션, 캐싱 또는 빠른 데이터 접근이 필요할 때 사용하였습니다. 마구마구2 프로젝트에서 sentinel을 구성하여 failover를 처리하였습니다.
 
 * PHP
@@ -45,7 +45,7 @@
 * C#
   * 게임빌 프로야구 슈퍼스타즈 프로젝트에서 기획자, 벡앤드 개발자분들이 여러 리전에 쿼리를 적용할 때 한번에 적용 가능하도록 데스크탑 앱을 C# MFC로 만들었습니다.
 
-* PYTHON
+* Python
   * 간단한 기능을 스크립트로 만들 때 Python을 활용하였습니다.
 
 # 프로젝트
