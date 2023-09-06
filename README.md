@@ -1,3 +1,26 @@
+# 자기소개
+
+안녕하세요.
+
+백엔드 개발자 박용순 입니다.
+
+넷마블, 스타트업 회사 모비두에 다녔으며 현재는 컴투스 홀딩스에 재직 중 입니다.
+
+평소 다양한 기술에 관심이 많고, 책임감이 강하여 맡은 업무를 일정안에 수행해냅니다.
+
+이전에 다녔던 회사에서 우수사원상도 받았습니다.
+
+테스트, 클린 코드, 체크 스타일을 적용하여 개발완료 후 나중에 코드를 보더라도 알아보기 쉽게 유지하려고 노력합니다.
+
+소나 린트를 사용하여 버그가 발생할 수 있거나 보안적으로 취약한 코드를 사전에 제거하면서 개발하고있습니다.
+
+클라이언트 개발자분들과 커뮤니케이션이 원활하여 업무 중 커뮤니케이션으로 이슈가 됐던적은 없습니다.
+
+개발이 좋아서 개인 프로젝트도 진행하고, 평소 적용해보고 싶었던 기술들을 개인 프로젝트에 적용 해보고 있습니다.
+
+감사합니다.
+
+
 # 기술
 
 * JAVA
@@ -47,6 +70,7 @@
 
 * Python
   * 간단한 기능을 스크립트로 만들 때 Python을 활용하였습니다.
+
 
 # 프로젝트
 
@@ -137,6 +161,7 @@
     * 코드 저장소를 gerrit에서 GitHub Enterprise로 마이그레이션
     * PR시 메신저에 알림이 가도록 설정, Submit시 자동 배포 기능 적용
 
+
 # 경력
 
   * 넷마블블루
@@ -163,6 +188,7 @@
     * 프로젝트
       * 게임빌 프로야구 슈퍼스타즈
 
+
 # 학력
 
   * 인천전자마이스터고등학교
@@ -173,9 +199,7 @@
     * 컴퓨터시스템과
     * 2009년 03월 ~ 2014년 02월
     
-
-
-
+</br>
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Framework&badges=Java,Spring,Vue.js,JavaScript,jQuery,Node.js,Express.js,Socket.io,Bootstrap&theme=dark)](https://github.com/webgori)
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Database%20and%20DevOps&badges=MSSQL,MySQL,Git,GitHub,Bitbucket&theme=dark)](https://github.com/webgori)
