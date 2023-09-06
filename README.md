@@ -110,6 +110,38 @@
     * Git
     * 통합 테스트 작성, 외부 서비스의 경우 Mock Server 사용
 
+* 게임빌 프로야구 슈퍼스타즈
+  * 풀3D 모바일 캐주얼 판타지 야구 게임
+  * 개발사
+    * 컴투스 홀딩스 (게임빌)
+  * 개발 기간
+    * 2018년 10월 ~ 2019년 06월 (09개월)
+  * 담당 업무
+    * Spring Boot 프레임워크로 API 서버 처음부터 직접 개발
+    * 라이브 최대 동접자
+      * 국내: 2019년 11월 26일 23시 30분 (21,513명)
+      * 일본: 2020년 08월 27일 23시 02분 (5,452명)
+      * 글로벌: 2020년 09월 12일 14시 02분 (91,661명))
+    * 안정적인 라이브 서비스 운영
+    * 주도적인 서비스 코드의 전반적인 리팩토링
+    * Vue.js로 웹 어플리케이션 개발
+    * 코드 리뷰 시스템 gerrit 도입
+    * ELK Stack을 도입하여 라이브 서버 로그를 쉽게 볼 수 있도록 개선
+    * Jira, Confluence 이슈 관리
+    * 자발적인 세미나 진행
+    * 팀원들에게 sonarlint를 소개하고 IDE에 적용하도록 하여 코드 품질을 높임
+    * 기획자들이 쿼리를 개발 DB에 적용할 수 있도록 Query Scripter (C#) 개발
+    * Kibana로 자주 호출하는 API, 응답시간이 높은 API 등 분석
+    * Netty를 이용하여 채팅 서버 직접 개발. 이전에 사용하던 채팅 서버 미사용으로 비용 절감
+    * 라이브 서버의 한국, 일본, 글로벌 리전의 서버 통합 스크립트를 만들어서 성공적으로 3개의 리전 통합
+    * 코드 저장소를 gerrit에서 GitHub Enterprise로 마이그레이션
+    * PR시 메신저에 알림이 가도록 설정, Submit시 자동 배포 기능 적용
+
+
+
+
+
+
 
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Framework&badges=Java,Spring,Vue.js,JavaScript,jQuery,Node.js,Express.js,Socket.io,Bootstrap&theme=dark)](https://github.com/webgori)
